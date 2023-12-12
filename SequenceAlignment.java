@@ -1,8 +1,4 @@
-/* Caitlin Hornbeek
- * Dr. Andrew Steinberg
- * COP3503 Fall 2023
- * Programming Assignment 4
- */
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
